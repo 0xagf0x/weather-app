@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Weather App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -30,3 +30,4 @@ https://rapidapi.com/wirefreethought/api/geodb-cities/
 
 - OpenWeather
 https://home.openweathermap.org/api_keys
+
